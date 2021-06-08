@@ -14,6 +14,6 @@ Project Design:
 1. Detailed User analysis
 2. Task analysis
 3. Sketch of interface/information display (WireFrames)
-4. Usability Specifications for testing of your prototype
+4. Usability Specifications for testing of the prototype
 
 
