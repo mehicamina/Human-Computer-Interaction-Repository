@@ -4,7 +4,7 @@ Project created for the Introduction to Human-Computer Interaction (CEN 334) cou
 #### Heroku App:
 https://hciproject1.herokuapp.com/
 
-##### UI design proposal
+#### UI design proposal
 Project Plan:
 1. Research question and motivation.
 2. User group aimed at
