@@ -1,6 +1,9 @@
 # Human-Computer-Interaction-Repository
 UI design proposal. Project created for the Introduction to Human-Computer Interaction (CEN 334) course at International Burch University.
 
+Heroku App:
+https://hciproject1.herokuapp.com/
+
 Project Plan:
 1. Research question and motivation.
 2. User group aimed at
